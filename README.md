@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hiresh Sahu</h1>
 <h3 align="center">A passionate front-End developer from India</h3>
 <img align="right" alt="coding" width="200px src= " https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif">
-
+![image alt](https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif)
 - 🔭 I’m currently working on [car rental website](https://motor-mart-mu.vercel.app/)
 
 - 🌱 I’m currently learning **Django**
