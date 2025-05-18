@@ -2,7 +2,7 @@
 <h1 align="center" style="color:#f35626; background-image: linear-gradient(92deg, #f35626, #feab3a); -webkit-background-clip: text; color: transparent; animation: glow 1s ease-in-out infinite alternate;">
   Hi 👋, I'm Hiresh Sahu
 </h1>
-  <h3 align="center">A Passionate Front-End developer from India</h3>
+  <h3 align="center">A Passionate Full-Stack Developer</h3>
 
 <!-- Typing animated bio -->
 <p align="center">
