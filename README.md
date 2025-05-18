@@ -7,7 +7,7 @@
 <!-- Typing animated bio -->
 <p align="center">
 
-  <a href="https://readme-typing-svg.demolab.com/demo/?lines=A+Frontend+Developer+from+India;React+%7C+JavaScript+%7C+Django+Lover;Always+Learning+New+Things!&font=Fira+Code&center=true&width=600&height=45&color=00FEEF&vCenter=true&size=22&pause=1000">
+  <a href="https://readme-typing-svg.demolab.com/demo/?lines=A+Frontend+Developer+from+India;React.JS+%7C+JavaScript+%7C+Django+Lover;Always+Learning+New+Things!&font=Fira+Code&center=true&width=600&height=45&color=00FEEF&vCenter=true&size=22&pause=1000">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=A+Frontend+Developer+from+India;React+%7C+JavaScript+%7C+Django+Lover;Always+Learning+New+Things!" alt="Typing SVG" />
   </a>
 </p>
@@ -17,11 +17,8 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="850" height="400" />
 </p>
 
----
 
 ### 🧠 About Me
-- 
- -->
 - 🔭 I’m currently working on [car rental website](https://motor-mart-mu.vercel.app/)
 
 - 🌱 I’m currently learning **Django**
