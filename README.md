@@ -18,13 +18,22 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Currently building: [Car Rental Website](https://motor-mart-mu.vercel.app/)
-- 🌱 Learning: **Django**
-- 🤝 Open to collaborate on: [Nestle India Clone](https://nestle-india-clone.vercel.app)
-- ⚙️ Exploring: **AI Coding Practice Platform**
-- 💬 Ask me about: **React, JavaScript, UI/UX**
-- 📧 Contact: **harishind198@gmail.com**
-- 🎯 Fun fact: *I write better code when listening to lo-fi beats.*
+- 
+<h3 align="center">A Passionate front-End developer from India</h3>
+ -->
+- 🔭 I’m currently working on [car rental website](https://motor-mart-mu.vercel.app/)
+
+- 🌱 I’m currently learning **Django**
+
+- 👯 I’m looking to collaborate on [Nestle india](nestle-india-clone.vercel.app)
+
+- 🤝 I’m looking for help with **Coding ai Practice Platform**
+
+- 💬 Ask me about **React,JavaScript**
+
+- 📫 How to reach me **harishind198@gmail.com**
+
+- ⚡ Fun fact **😎**
 
 ---
 
@@ -65,10 +74,10 @@
 
 ---
 
-### 🌀 Quote to Code By
+<!--### 🌀 Quote to Code By-->
 
-<p align="center">
-  <img src="https://readme-quote.vercel.app/api?theme=dark&bg=000000&quote=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.&author=Hiresh%20Sahu" />
-</p>
+<!--<p align="center">-->
+<!--  <img src="https://readme-quote.vercel.app/api?theme=dark&bg=000000&quote=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.&author=Hiresh%20Sahu" />-->
+<!--</p>-->
 
 
