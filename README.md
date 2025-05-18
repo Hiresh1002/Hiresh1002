@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" alt="coding gif" width="300" />
+  <img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" alt="coding gif" width="500" />
 </p>
 <h1 align="center">Hi 👋, I'm Hiresh Sahu</h1>
 <h3 align="center">A passionate front-End developer from India</h3>
