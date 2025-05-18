@@ -1,34 +1,74 @@
-<h1 align="center">Hi 👋, I'm Hiresh Sahu</h1>
+<!-- Header with glowing effect -->
+<h1 align="center" style="color:#f35626; background-image: linear-gradient(92deg, #f35626, #feab3a); -webkit-background-clip: text; color: transparent; animation: glow 1s ease-in-out infinite alternate;">
+  Hi 👋, I'm Hiresh Sahu
+</h1>
+
+<!-- Typing animated bio -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd2dWdueG5qaXc3dTF5a2IxOTkwZ3RidXQ5aXpxNTY4cHBmczU4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="900"height="400" />
-</p>
-<h3 align="center">A passionate front-End developer from India</h3>
- -->
-- 🔭 I’m currently working on [car rental website](https://motor-mart-mu.vercel.app/)
-
-- 🌱 I’m currently learning **Django**
-
-- 👯 I’m looking to collaborate on [Nestle india](nestle-india-clone.vercel.app)
-
-- 🤝 I’m looking for help with **Coding ai Practice Platform**
-
-- 💬 Ask me about **React,JavaScript**
-
-- 📫 How to reach me **harishind198@gmail.com**
-
-- ⚡ Fun fact **😎**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/hiresh sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hiresh sahu" height="30" width="40" /></a>
-<a href="https://instagram.com/er.hiresh sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er.hiresh sahu" height="30" width="40" /></a>
+  <a href="https://readme-typing-svg.demolab.com/demo/?lines=A+Frontend+Developer+from+India;React+%7C+JavaScript+%7C+Django+Lover;Always+Learning+New+Things!&font=Fira+Code&center=true&width=600&height=45&color=00FEEF&vCenter=true&size=22&pause=1000">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=A+Frontend+Developer+from+India;React+%7C+JavaScript+%7C+Django+Lover;Always+Learning+New+Things!" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<!-- Hero animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="850" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiresh1002&show_icons=true&locale=en&layout=compact" alt="hiresh1002" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiresh1002&show_icons=true&locale=en" alt="hiresh1002" /></p>
+### 🧠 About Me
+- 🔭 Currently building: [Car Rental Website](https://motor-mart-mu.vercel.app/)
+- 🌱 Learning: **Django**
+- 🤝 Open to collaborate on: [Nestle India Clone](https://nestle-india-clone.vercel.app)
+- ⚙️ Exploring: **AI Coding Practice Platform**
+- 💬 Ask me about: **React, JavaScript, UI/UX**
+- 📧 Contact: **harishind198@gmail.com**
+- 🎯 Fun fact: *I write better code when listening to lo-fi beats.*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiresh1002&" alt="hiresh1002" /></p>
+---
+
+### 📱 Let's Connect
+
+<p align="center">
+  <a href="https://facebook.com/hireshsahu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
+  </a>
+  <a href="https://instagram.com/er.hireshsahu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="mailto:harishind198@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ My Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,python,django,figma,github,java,mysql,nodejs,photoshop,illustrator" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiresh1002&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiresh1002&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiresh1002&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🌀 Quote to Code By
+
+<p align="center">
+  <img src="https://readme-quote.vercel.app/api?theme=dark&bg=000000&quote=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.&author=Hiresh%20Sahu" />
+</p>
+
+
