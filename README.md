@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Hiresh Sahu</h1>
-<h3 align="center">A passionate front-End developer from India</h3>
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" alt="coding gif" width="300" />
 </p>
+<h1 align="center">Hi 👋, I'm Hiresh Sahu</h1>
+<h3 align="center">A passionate front-End developer from India</h3>
+
+
 
 - 🔭 I’m currently working on [car rental website](https://motor-mart-mu.vercel.app/)
 
