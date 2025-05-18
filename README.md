@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hiresh Sahu</h1>
 <p align="right">
-  <img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" alt="coding gif" width="500" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd2dWdueG5qaXc3dTF5a2IxOTkwZ3RidXQ5aXpxNTY4cHBmczU4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="900"height="400" />
 </p>
 <h3 align="center">A passionate front-End developer from India</h3>
-<!-- <img align="right" alt="coding" width="200px src= " https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif">
  -->
 - 🔭 I’m currently working on [car rental website](https://motor-mart-mu.vercel.app/)
 
