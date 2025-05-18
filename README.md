@@ -12,7 +12,7 @@
 
 <!-- Hero animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="850" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="850" height="400" />
 </p>
 
 ---
@@ -28,26 +28,26 @@
 
 ---
 
-### 📱 Let's Connect
+<!--### 📱 Let's Connect-->
 
-<p align="center">
-  <a href="https://facebook.com/hireshsahu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
-  </a>
-  <a href="https://instagram.com/er.hireshsahu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-  <a href="mailto:harishind198@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
-</p>
+<!--<p align="center">-->
+<!--  <a href="https://facebook.com/hireshsahu" target="_blank">-->
+<!--    <img src="https://skillicons.dev/icons?i=facebook" height="40" />-->
+<!--  </a>-->
+<!--  <a href="https://instagram.com/er.hireshsahu" target="_blank">-->
+<!--    <img src="https://skillicons.dev/icons?i=instagram" height="40" />-->
+<!--  </a>-->
+<!--  <a href="mailto:harishind198@gmail.com">-->
+<!--    <img src="https://skillicons.dev/icons?i=gmail" height="40" />-->
+<!--  </a>-->
+<!--</p>-->
 
 ---
 
 ### 🛠️ My Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,python,django,figma,github,java,mysql,nodejs,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,django,figma,github,java,mysql,nodejs,photoshop,illustrator" />
 </p>
 
 ---
