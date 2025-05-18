@@ -7,9 +7,10 @@
 <!-- Typing animated bio -->
 <p align="center">
 
-  <a href="https://readme-typing-svg.demolab.com/demo/?lines=A+Front-End+Developer+from+India;React.js+%7C+JavaScript+%7C+Django+Lover;Always+Learning+New+Things!&font=Fira+Code&center=true&width=600&height=45&color=00FEEF&vCenter=true&size=22&pause=1000">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=A+Frontend+Developer+from+India;React+%7C+JavaScript+%7C+Django+Lover;Always+Learning+New+Things!" alt="Typing SVG" />
-  </a>
+<a href="https://readme-typing-svg.demolab.com/demo/?lines=A+Full-Stack+Developer+from+India;React.js+%7C+JavaScript+%7C+Django;Always+Learning+New+Things!&font=Fira+Code&center=true&width=600&height=45&color=00FEEF&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=A+Full-Stack+Developer+from+India;React.js+%7C+JavaScript+%7C+Django;Always+Learning+New+Things!" alt="Typing SVG" />
+</a>
+
 </p>
 
 <!-- Hero animation -->
