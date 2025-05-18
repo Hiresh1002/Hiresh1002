@@ -40,7 +40,7 @@
 ### 🛠️ My Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,django,figma,github,java,mysql,nodejs,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,figma,github,java,mysql,nodejs,photoshop,illustrator" />
 </p>
 
 ---
